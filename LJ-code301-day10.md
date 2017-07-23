@@ -1,0 +1,2 @@
+# LJ Code 301 - Day 10
+Friday I was so exhausted it was difficult to stay awake in class in the morning. We learned about functional programing and why its super important to structure your code in a way that prevents it from being accidentally changed or "mutated". Two ways of doing so are using defining variables using  let and const and avoid using global variables that can be changed or redefined throughout the code. And a second form of protection would be to wrap code blocks inside functions to prevent similar situations from occuring.
